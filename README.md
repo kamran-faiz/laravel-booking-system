@@ -30,12 +30,11 @@ This is a booking system built with **Laravel** that manages customers, provider
 
 git clone https://github.com/kamran-faiz/laravel-booking-system
 
-## Demo Video
-Silent walkthrough showing:
+## Demo video
+A short silent walkthrough demonstrating:
 - Customer booking creation
 - Provider booking confirmation
 - Admin user registration and role update
 
-(Note: Video is silent for clarity and system performance)
-
+Watch the demo here: [Google Drive Video](https://drive.google.com/file/d/1BKkRR7Y1lwz9ZJcY7NH3vxILiihIuKIg/view?usp=sharing)
 
